@@ -1,0 +1,22 @@
+{
+  "name": "pong-electron-app",
+  "version": "1.0.0",
+  "description": "Ping Pong Game",
+  "main": "pong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://9xr42: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@github.com/SLHSCS/pong-walkthrough-2021-9xr42.git"
+  },
+  "author": "Harshil Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLHSCS/pong-walkthrough-2021-9xr42/issues"
+  },
+  "homepage": "https://github.com/SLHSCS/pong-walkthrough-2021-9xr42#readme",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}
